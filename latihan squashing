@@ -1,0 +1,14 @@
+**Membuat Squashing**
+
+1 Apa itu squashing change?
+2 Bagaimana menggunakan Squash and Merge?
+3 Apa yang perlu diperhatikan sewaktu melakukan squashing change?
+4 Bagaimana cara melihat hasil dari hasil Squash and Merge pada Network graph.
+
+**Tahapan Proses**
+Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan squashing changes:
+
+1 Membuka Repository
+2 Membuat Branch
+3 Melakukan Commit minimal 3
+4 Melakukan Pull Request
